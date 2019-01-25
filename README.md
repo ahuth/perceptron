@@ -4,7 +4,7 @@ Simple, hand-coded implementations of some basic deep learning concepts for lear
 
 ## Examples
 
-- [Implementation of the "Or" function](./Or.ipynb)
+- [Implementation of the "And" function](./And.ipynb)
 
 ## Requirements
 
