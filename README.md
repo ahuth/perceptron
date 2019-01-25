@@ -5,6 +5,7 @@ Simple, hand-coded implementations of some basic deep learning concepts for lear
 ## Examples
 
 - [Implementation of the "And" function](./And.ipynb)
+- [Implementation of the "Xor" function](./Xor.ipynb)
 
 ## Requirements
 
