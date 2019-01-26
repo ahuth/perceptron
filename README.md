@@ -1,11 +1,6 @@
 # Perceptron
 
-Simple, hand-coded implementations of some basic deep learning concepts for learning purposes.
-
-## Examples
-
-- [Implementation of the "And" function](./And.ipynb)
-- [Implementation of the "Xor" function](./Xor.ipynb)
+Simple, hand-coded implementation of a single [perceptron](https://en.wikipedia.org/wiki/Perceptron) for learning purposes.
 
 ## Requirements
 
